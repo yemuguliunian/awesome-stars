@@ -35,6 +35,7 @@
 
 ## HTML 
 
+- [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [webcomponents](https://github.com/w3c/webcomponents) - Web Components specifications
 - [mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - :speak_no_evil: My Blog / Jekyll Themes / GitHub Pages 博客模板
@@ -42,6 +43,29 @@
 
 ## JavaScript 
 
+- [reactcss](https://github.com/casesandberg/reactcss) - :lipstick: Inline Styles in JS
+- [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
+- [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
+- [react-countup](https://github.com/glennreyes/react-countup) - 💫 A configurable React component wrapper around CountUp.js
+- [react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy-to-clipboard React component
+- [react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
+- [react-slick](https://github.com/akiran/react-slick) - React carousel component
+- [debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
+- [rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
+- [node-mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like `mkdir -p`, but in node.js
+- [chokidar](https://github.com/paulmillr/chokidar) - An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents
+- [execa](https://github.com/sindresorhus/execa) - Process execution for humans
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
+- [commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
+- [node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
+- [generator-generator](https://github.com/yeoman/generator-generator) - Generate a Yeoman generator
+- [express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
+- [nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+- [viewerjs](https://github.com/fengyuanchen/viewerjs) - JavaScript image viewer.
+- [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste)
+- [remarkable](https://github.com/jonschlinkert/remarkable) - Markdown parser, done right. Commonmark support, extensions, syntax plugins, high speed - all in one. Gulp and metalsmith plugins available. Used by Facebook, Docusaurus and many others! Use https://github.com/breakdance/breakdance for HTML-to-markdown conversion. Use https://github.com/jonschlinkert/markdown-toc to generate a table of contents.
+- [sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 - [chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
@@ -95,7 +119,6 @@
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [babel-plugin-import](https://github.com/ant-design/babel-plugin-import) - Modularly import plugin for babel.
 - [antd-doddle](https://github.com/closertb/antd-doddle) - antd后台项目前端组件封装和方法库
-- [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
@@ -123,6 +146,7 @@
 
 ## Others 
 
+- [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
 - [FEGuide](https://github.com/FEGuideTeam/FEGuide) - 【前端面试题+前端学习+面试指南】 一份涵盖大部分前端工程师所需要掌握的核心知识。这个项目就是为了帮助那些找工作的前端开发工程师去回顾前端的基础知识，如果你不想找工作，也可以通过查看这些面试问题去巩固你的前端技能。
