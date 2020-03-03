@@ -43,6 +43,22 @@
 
 ## JavaScript 
 
+- [babel-preset-power-assert](https://github.com/power-assert-js/babel-preset-power-assert) - Babel preset for all power-assert plugins
+- [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) - Example project using Jest + vue-test-utils together
+- [power-assert](https://github.com/power-assert-js/power-assert) - Power Assert in JavaScript. Provides descriptive assertion messages through standard assert interface. No API is the best API.
+- [markdown-it-emoji](https://github.com/markdown-it/markdown-it-emoji) - Emoji syntax plugin for markdown-it markdown parser
+- [sass-loader](https://github.com/webpack-contrib/sass-loader) - Compiles Sass to CSS
+- [sass](https://github.com/sass/sass) - Sass makes CSS fun!
+- [vue-highlightjs](https://github.com/metachris/vue-highlightjs) - Syntax highlighting with highlight.js for Vue.js 2.x
+- [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+- [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
+- [gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [source-map](https://github.com/mozilla/source-map) - Consume and generate source maps.
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
+- [react-native-dva-starter](https://github.com/nihgwu/react-native-dva-starter) - a React Native starter powered by dva and react-navigation
+- [increase-memory-limit](https://github.com/endel/increase-memory-limit) - Increase memory limit for local node binaries ("max-old-space-size")
+- [uni-app](https://github.com/dcloudio/uni-app) - uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架
 - [reactcss](https://github.com/casesandberg/reactcss) - :lipstick: Inline Styles in JS
 - [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
 - [react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
@@ -71,7 +87,6 @@
 - [lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-- [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
 - [jsdoc](https://github.com/jsdoc/jsdoc) - An API documentation generator for JavaScript.
 - [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
@@ -80,7 +95,6 @@
 - [standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 - [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
-- [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [link-module-alias](https://github.com/Rush/link-module-alias) - Register aliases of directories and custom module paths in Node  - no require hook
 - [Mock](https://github.com/nuysoft/Mock) - A simulation data generator
 - [updeep](https://github.com/substantial/updeep) - Easily update nested frozen objects and arrays in a declarative and immutable manner.
@@ -93,7 +107,6 @@
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component
 - [html5shiv](https://github.com/aFarkas/html5shiv) - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.
-- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -105,7 +118,7 @@
 - [bisheng-sourceCode-plugin](https://github.com/liangklfangl/bisheng-sourceCode-plugin) - bisheng脚手架源码分析，将markdown转化为静态网站,来自于[我的github文章全集](https://github.com/liangklfangl/react-article-bucket)
 - [bisheng](https://github.com/benjycui/bisheng) - Transform Markdown(and other static files with transformers) into a SPA website using React.
 - [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
-- [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
+- [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [gulp-sourcemaps](https://github.com/gulp-sourcemaps/gulp-sourcemaps) - Sourcemap support for gulpjs.
 - [browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [copy-webpack-plugin](https://github.com/webpack-contrib/copy-webpack-plugin) - Copy files and directories with webpack
@@ -119,8 +132,7 @@
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [babel-plugin-import](https://github.com/ant-design/babel-plugin-import) - Modularly import plugin for babel.
 - [antd-doddle](https://github.com/closertb/antd-doddle) - antd后台项目前端组件封装和方法库
-- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-- [enzyme](https://github.com/airbnb/enzyme) - JavaScript Testing utilities for React
+- [enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
 - [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
@@ -146,6 +158,7 @@
 
 ## Others 
 
+- [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - [印记中文](https://docschina.org/) - webpack 优秀中文文章
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer) - A curated list of awesome puppeteer resources.
@@ -173,7 +186,10 @@
 
 ## TypeScript 
 
+- [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
+- [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [yapi-to-typescript](https://github.com/fjc0k/yapi-to-typescript) - 根据 YApi 的接口定义生成 TypeScript 的接口类型及其请求函数代码。
 - [ant-design-pro-layout](https://github.com/ant-design/ant-design-pro-layout) - 🌃 Powerful and easy to use beautiful layout
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
@@ -189,6 +205,7 @@
 - [typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 - [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
+- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
