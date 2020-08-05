@@ -9,6 +9,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [HTML](#html)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Others](#others)
@@ -25,24 +26,81 @@
 
 ## C++ 
 
+- [electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 
 ## CSS 
 
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - Elegant theme for Hexo.
+- [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [iview-weapp](https://github.com/TalkingData/iview-weapp) - 一套高质量的微信小程序 UI 组件库
 - [css-ripple-effect](https://github.com/mladenplavsic/css-ripple-effect) - Pure CSS (no JavaScript) implementation of Android Material design "ripple" animation
 
 ## HTML 
 
+- [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+- [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) - 前端开发面试题大收集，前端面试集锦 :heart: :gift_heart: :cupid:
 - [github-markdown-css](https://github.com/sindresorhus/github-markdown-css) - The minimal amount of CSS to replicate the GitHub Markdown style
 - [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 - [webcomponents](https://github.com/w3c/webcomponents) - Web Components specifications
-- [mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - :speak_no_evil: My Blog / Jekyll Themes / GitHub Pages 博客模板
+- [mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io) - Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog
 - [blog](https://github.com/islishude/blog) - my web notes
+
+## Java 
+
+- [GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！
 
 ## JavaScript 
 
+- [yorkie](https://github.com/yyx990803/yorkie) - :dog: Git hooks made easy
+- [wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
+- [concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+- [escape-html](https://github.com/component/escape-html) - Escape string for use in HTML
+- [CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [qs](https://github.com/ljharb/qs) - A querystring parser with nesting support
+- [rax](https://github.com/alibaba/rax) - 🐰 Rax is a progressive React framework for building universal application. https://rax.js.org
+- [nerv](https://github.com/NervJS/nerv) - A blazing fast React alternative, compatible with IE8 and React 16.
+- [styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
+- [resize-observer-polyfill](https://github.com/que-etc/resize-observer-polyfill) - A polyfill for the Resize Observer API
+- [vue-fragment](https://github.com/Thunberg087/vue-fragment) - a very candide fragment component for Vue.js
+- [vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
+- [watchpack](https://github.com/webpack/watchpack) - Wrapper library for directory and file watching.
+- [uslug](https://github.com/jeremys/uslug) - A permissive slug generator that works with unicode.
+- [how-to-optimize-momentjs-with-webpack](https://github.com/jmblog/how-to-optimize-momentjs-with-webpack) - Explaining how to optimize the large bundle size of moment.js with webpack
+- [yarn](https://github.com/yarnpkg/yarn) - 📦🐈 Fast, reliable, and secure dependency management.
+- [vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable) - Vue2 Component for draggable and resizable elements.
+- [vuepress-plugin-demo-block](https://github.com/xiguaxigua/vuepress-plugin-demo-block) - write vue, react, vanilla js demo in vuepress
+- [minimist](https://github.com/substack/minimist) - parse argument options
+- [dotenv](https://github.com/motdotla/dotenv) - Loads environment variables from .env for nodejs projects.
+- [rest.js](https://github.com/octokit/rest.js) - GitHub REST API client for JavaScript
+- [prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+- [babel-plugin-transform-vue-jsx](https://github.com/vuejs/babel-plugin-transform-vue-jsx) - babel plugin for vue 2.0 jsx
+- [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.
+- [GridManager](https://github.com/baukh789/GridManager) - :globe_with_meridians: 表格组件GridManager: 快速、灵活的对Table标签进行实例化，让Table标签充满活力。
+- [query-string](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings
+- [svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components 🦁
+- [vue-cli](https://github.com/vuejs/vue-cli) - 🛠️ Standard Tooling for Vue.js Development
+- [webpack-simple](https://github.com/vuejs-templates/webpack-simple) - A simple Webpack + vue-loader setup for quick prototyping.
+- [DownGit](https://github.com/zhoudaxiaa/DownGit) - github 资源打包下载工具
+- [TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
+- [rasterizeHTML.js](https://github.com/cburgmer/rasterizeHTML.js) - Renders HTML into the browser's canvas
+- [jsPDF](https://github.com/MrRio/jsPDF) - Client-side JavaScript PDF generation for everyone.
+- [portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vuejs, for rendering DOM outside of a component, anywhere our app or the entire document.
+- [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
+- [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [Print.js](https://github.com/crabbly/Print.js) - A tiny javascript library to help printing from the web.
+- [canvas2image](https://github.com/hongru/canvas2image) - a tool for saving or converting canvas as img
+- [kbone](https://github.com/Tencent/kbone) - 一个致力于微信小程序和 Web 端同构的解决方案
+- [cross-env](https://github.com/kentcdodds/cross-env) - 🔀 Cross platform setting of environment scripts
+- [vue-echarts](https://github.com/ecomfe/vue-echarts) - ECharts component for Vue.js.
+- [nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
+- [es5-shim](https://github.com/es-shims/es5-shim) - ECMAScript 5 compatibility shims for legacy (and modern) JavaScript engines
+- [gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers.
+- [npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
+- [english-learn](https://github.com/iamjoel/english-learn) - 英语学习
+- [babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [babel-preset-power-assert](https://github.com/power-assert-js/babel-preset-power-assert) - Babel preset for all power-assert plugins
 - [vue-test-utils-jest-example](https://github.com/vuejs/vue-test-utils-jest-example) - Example project using Jest + vue-test-utils together
 - [power-assert](https://github.com/power-assert-js/power-assert) - Power Assert in JavaScript. Provides descriptive assertion messages through standard assert interface. No API is the best API.
@@ -103,13 +161,11 @@
 - [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer) - Run your tests using Jest & Puppeteer 🎪✨
 - [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data
 - [nightmare](https://github.com/segmentio/nightmare) - A high-level browser automation library.
-- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 - [react-custom-scrollbars](https://github.com/malte-wessel/react-custom-scrollbars) - React scrollbars component
 - [html5shiv](https://github.com/aFarkas/html5shiv) - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer.
 - [yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-- [fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [fe-interview](https://github.com/haizlin/fe-interview) - 前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……
 - [docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -117,7 +173,6 @@
 - [stylelint](https://github.com/stylelint/stylelint) - A mighty, modern style linter
 - [bisheng-sourceCode-plugin](https://github.com/liangklfangl/bisheng-sourceCode-plugin) - bisheng脚手架源码分析，将markdown转化为静态网站,来自于[我的github文章全集](https://github.com/liangklfangl/react-article-bucket)
 - [bisheng](https://github.com/benjycui/bisheng) - Transform Markdown(and other static files with transformers) into a SPA website using React.
-- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [gulp-sourcemaps](https://github.com/gulp-sourcemaps/gulp-sourcemaps) - Sourcemap support for gulpjs.
 - [browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
@@ -128,19 +183,18 @@
 - [omit.js](https://github.com/benjycui/omit.js) - Utility function to create a shallow copy of an object which had dropped some fields.
 - [react-router-breadcrumbs-hoc](https://github.com/icd2k3/react-router-breadcrumbs-hoc) - tiny, flexible, HOC for rendering route breadcrumbs with react-router v4 & 5
 - [egg](https://github.com/eggjs/egg) - 🥚 Born to build better enterprise frameworks and apps with Node.js & Koa
-- [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility.
+- [cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [babel-plugin-import](https://github.com/ant-design/babel-plugin-import) - Modularly import plugin for babel.
 - [antd-doddle](https://github.com/closertb/antd-doddle) - antd后台项目前端组件封装和方法库
 - [enzyme](https://github.com/enzymejs/enzyme) - JavaScript Testing utilities for React
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 - [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
-- [taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动/ QQ 小程序/快应用/H5/React Native 等的应用。  https://taro.jd.com/
+- [taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。  https://taro.jd.com/
 - [shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [node-fs-extra](https://github.com/jprichardson/node-fs-extra) - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()
 - [wux-weapp](https://github.com/wux-weapp/wux-weapp) - :dog: 一套组件化、可复用、易扩展的微信小程序 UI 组件库
 - [minui](https://github.com/meili/minui) - 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化
-- [weui-wxss](https://github.com/Tencent/weui-wxss) - A UI library by WeChat official design team, includes the most useful widgets/modules.
 - [node-glob](https://github.com/isaacs/node-glob) - glob functionality for node.js
 - [coordtransform](https://github.com/wandergis/coordtransform) - 提供了百度坐标（BD09）、国测局坐标（火星坐标，GCJ02）、和WGS84坐标系之间的转换
 - [react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
@@ -158,6 +212,13 @@
 
 ## Others 
 
+- [awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
+- [iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+- [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
+- [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+- [English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) - 可能是让你受益匪浅的英语进阶指南
+- [proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
+- [babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [awesome-webpack-cn](https://github.com/webpack-china/awesome-webpack-cn) - [印记中文](https://docschina.org/) - webpack 优秀中文文章
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
@@ -186,17 +247,32 @@
 
 ## TypeScript 
 
+- [electron-webpack](https://github.com/electron-userland/electron-webpack) - Scripts and configurations to compile Electron applications using webpack
+- [vuepress-community](https://github.com/vuepress/vuepress-community) - :bulb: Community supported ecosystem for VuePress
+- [taro-ui](https://github.com/NervJS/taro-ui) - 一款基于 Taro 框架开发的多端 UI 组件库
+- [hooks](https://github.com/alibaba/hooks) - React Hooks Library
+- [vite](https://github.com/vitejs/vite) - Native-ESM powered web dev build tool. It's fast.
+- [react-tiny-virtual-list](https://github.com/clauderic/react-tiny-virtual-list) - A tiny but mighty 3kb list virtualization library, with zero dependencies 💪 Supports variable heights/widths, sticky items, scrolling to index, and more!
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [vuese](https://github.com/vuese/vuese) - 🤗 One-stop solution for vue component documentation. Original org: https://github.com/vuese
+- [ts-import-plugin](https://github.com/Brooooooklyn/ts-import-plugin) - babel-import-plugin TypeScript Implement
+- [clean-frontend](https://github.com/phodal/clean-frontend) - Clean Frontend Architecture：整洁前端架构
+- [vscode-sftp](https://github.com/liximomo/vscode-sftp) - Super fast sftp/ftp extension for VS Code
+- [qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and completed solution for micro frontends.
+- [vtils](https://github.com/fjc0k/vtils) - 一个面向业务的 JavaScript/TypeScript 实用程序库。支持在浏览器、Node.js、小程序、Taro、Deno 下使用。
 - [commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [ant-design-icons](https://github.com/ant-design/ant-design-icons) - ⭐ Ant Design SVG Icons
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [yapi-to-typescript](https://github.com/fjc0k/yapi-to-typescript) - 根据 YApi 的接口定义生成 TypeScript 的接口类型及其请求函数代码。
 - [ant-design-pro-layout](https://github.com/ant-design/ant-design-pro-layout) - 🌃 Powerful and easy to use beautiful layout
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [storybook](https://github.com/storybookjs/storybook) - 📓 UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 - [snabbdom](https://github.com/snabbdom/snabbdom) - A virtual DOM library with focus on simplicity, modularity, powerful features and performance.
 - [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
+- [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐A lightweight private npm proxy registry
 - [ts-jest](https://github.com/kulshekhar/ts-jest) - TypeScript preprocessor with sourcemap support for Jest
@@ -210,12 +286,15 @@
 - [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [rrweb](https://github.com/rrweb-io/rrweb) - record and replay the web
-- [ant-design](https://github.com/ant-design/ant-design) - 🌈 A UI Design Language and React UI library
+- [ant-design](https://github.com/ant-design/ant-design) - 🌈  A UI Design Language and React UI library
 
 ## Vue 
 
+- [vue-gn-components](https://github.com/huxiaocheng/vue-gn-components) - 这里有一些标准组件库可能没有的功能组件，已有组件：放大镜、签到、图片标签、滑动验证、倒计时、水印、拖拽、大家来找茬。
+- [vuepress-plugin-demo-code](https://github.com/BuptStEve/vuepress-plugin-demo-code) - 📝 Demo and code plugin for vuepress
+- [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 - [element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
-- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - An enterprise-class UI components based on Ant Design and Vue. 🐜
+- [ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [ColorUI](https://github.com/weilanwl/ColorUI) - 鲜亮的高饱和色彩，专注视觉的小程序组件库
 
